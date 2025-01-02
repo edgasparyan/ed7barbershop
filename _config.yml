@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'ED7 BARBERSHOP'
-description: 'Информация по ссылкам ниже'
+description: 'Всеволожск Плоткина 16 /br записаться можно по ссылкам ниже'
 
 # Images
 avatar: 'avatar.jpg'
@@ -96,6 +96,9 @@ social-links:
     url-pattern: gitlab.com/__USERNAME__
     icon-class: fab fa-2x fa-gitlab
 
+  - name: whatsapp
+    url-pattern: wa.me/__USERNAME__
+
   - name: codepen
     url-pattern: codepen.com/__USERNAME__
 
@@ -157,3 +160,8 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
+
+  - name: phone
+    url-scheme: 'tel:'
+    url-pattern: '__USERNAME__'
+    icon-class: far fa-2x fa-phone
