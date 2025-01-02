@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'ED7 BARBERSHOP'
+description: 'Информация по ссылкам ниже'
 
 # Images
 avatar: 'avatar.jpg'
@@ -30,12 +30,15 @@ github-user: 'mygithub'
 #medium:  ''
 tumblr: 'mytumblr'
 weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+vk: 'barbershop_ed7'
+telegram: 'prosto_Edd'
+whatsapp: '79633283233'
+#blog_url: 'myblog.blog.com'
+#email: 'hello@example.com'
+#messenger: 'myfbchat'
+phone: '+79633283233'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [telegram, vk, whatsapp, phone]
 
 # Yaml manifest of supported social links
 # Requirements:
